@@ -25,9 +25,13 @@ const Gengar = () => {
 
   const FullName = () => (
     <div>
-      <h1 className="text-2xl font-bold leading-tight">{data.profile.firstName}</h1>
-      <h1 className="text-2xl font-bold leading-tight">{data.profile.lastName}</h1>
-      <div className="text-xs font-medium mt-2">{data.profile.subtitle}</div>
+      <h1 className="text-2xl font-bold leading-tight">
+        {data.profile.firstName}
+        {data.profile.lastName}
+      </h1>
+      <h1 className="text-2xl font-bold leading-tight">{data.profile.subtitle}</h1>
+      {/* <h1 className="text-2xl font-bold leading-tight">{data.profile.lastName}</h1> */}
+      {/* <div className="text-xs font-medium mt-2">{data.profile.subtitle}</div> */}
     </div>
   );
 

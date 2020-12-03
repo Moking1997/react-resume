@@ -9,7 +9,7 @@ import { move } from '../utils';
 const initialState = {
   data: {
     profile: {
-      heading: 'Profile',
+      heading: '基本信息',
       photo: '',
       firstName: '',
       lastName: '',
@@ -25,52 +25,52 @@ const initialState = {
     },
     objective: {
       enable: true,
-      heading: 'Objective',
+      heading: '职位意向',
       body: '',
     },
     work: {
       enable: true,
-      heading: 'Work Experience',
+      heading: '工作经历',
       items: [],
     },
     education: {
       enable: true,
-      heading: 'Education',
+      heading: '教育经历',
       items: [],
     },
     awards: {
       enable: true,
-      heading: 'Honors & Awards',
+      heading: '荣誉奖章',
       items: [],
     },
     certifications: {
       enable: true,
-      heading: 'Certifications',
+      heading: '证书',
       items: [],
     },
     skills: {
       enable: true,
-      heading: 'Skills',
+      heading: '专业技能',
       items: [],
     },
     hobbies: {
       enable: true,
-      heading: 'Hobbies',
+      heading: '兴趣爱好',
       items: [],
     },
     languages: {
       enable: true,
-      heading: 'Languages',
+      heading: '语言能力',
       items: [],
     },
     references: {
       enable: true,
-      heading: 'References',
+      heading: '推荐人',
       items: [],
     },
     extras: {
       enable: true,
-      heading: 'Personal Information',
+      heading: '其他信息',
       items: [],
     },
   },
@@ -82,11 +82,11 @@ const initialState = {
     colors: {
       background: '#ffffff',
       primary: '#212121',
-      accent: '#f44336',
+      accent: '#009688',
     },
   },
   settings: {
-    language: 'en',
+    language: 'zh',
   },
 };
 

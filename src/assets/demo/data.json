@@ -1,7 +1,7 @@
 {
   "data": {
     "profile": {
-      "heading": "Profile",
+      "heading": "基本信息",
       "photo": "https://i.imgur.com/Icr472Z.jpg",
       "firstName": "Nancy",
       "lastName": "Jackson",
@@ -17,12 +17,12 @@
     },
     "objective": {
       "enable": true,
-      "heading": "Professional Objective",
+      "heading": "职位意向",
       "body": "To obtain a job within my chosen field that will challenge me and allow me to use my education, skills and past experiences in a way that is mutually beneficial to both myself and my employer and allow for future growth and advancement."
     },
     "work": {
       "enable": true,
-      "heading": "Work Experience",
+      "heading": "工作经历",
       "items": [
         {
           "id": "a208ec03-76e3-4428-ac5b-e17c3de4ac18",
@@ -58,7 +58,7 @@
     },
     "education": {
       "enable": true,
-      "heading": "Education",
+      "heading": "教育经历",
       "items": [
         {
           "id": "624f32ab-2d78-4052-86ad-1354fd41d754",
@@ -86,7 +86,7 @@
     },
     "awards": {
       "enable": true,
-      "heading": "Honors & Awards",
+      "heading": "荣誉奖章",
       "items": [
         {
           "id": "121f0976-18cb-4e46-921d-0e156b6bf7fb",
@@ -113,7 +113,7 @@
     },
     "certifications": {
       "enable": true,
-      "heading": "Certifications",
+      "heading": "证书",
       "items": [
         {
           "id": "e5170d99-b21d-4131-a7dc-26a4670037f5",
@@ -140,60 +140,59 @@
     },
     "skills": {
       "enable": true,
-      "heading": "Skills",
+      "heading": "专业技能",
       "items": [
-          {
-            "id": "2562d78a-3459-4370-8604-c81b00738db1",
-            "skill": "Customer Service Expertise"
-          },
-          {
-            "id": "58c31587-9770-4522-a34c-f5ad92fe33e5",
-            "skill": "High-Volume Call Center"
-          },
-          {
-            "id": "7aa9a4b1-a2bb-4bcd-8711-b66c0d246971",
-            "skill": "Team Leader/Problem Solver"
-          },
-          {
-            "id": "e7fd33e8-5d77-462d-8115-5be57f52832e",
-            "skill": "Call Center Management"
-          },
-          {
-              "id": "7bad2af1-c24d-4e01-b68b-be01cfa784ce",
-              "skill": "Teambuilding & Training"
-          },
-          {
-            "id": "64fe1710-c2d1-4f53-922e-a5d751eee967",
-            "skill": "Continuous Improvement"
-          }
+        {
+          "id": "2562d78a-3459-4370-8604-c81b00738db1",
+          "skill": "Customer Service Expertise"
+        },
+        {
+          "id": "58c31587-9770-4522-a34c-f5ad92fe33e5",
+          "skill": "High-Volume Call Center"
+        },
+        {
+          "id": "7aa9a4b1-a2bb-4bcd-8711-b66c0d246971",
+          "skill": "Team Leader/Problem Solver"
+        },
+        {
+          "id": "e7fd33e8-5d77-462d-8115-5be57f52832e",
+          "skill": "Call Center Management"
+        },
+        {
+          "id": "7bad2af1-c24d-4e01-b68b-be01cfa784ce",
+          "skill": "Teambuilding & Training"
+        },
+        {
+          "id": "64fe1710-c2d1-4f53-922e-a5d751eee967",
+          "skill": "Continuous Improvement"
+        }
       ]
     },
     "hobbies": {
       "enable": true,
-      "heading": "Hobbies",
+      "heading": "兴趣爱好",
       "items": [
-          {
-            "id": "dd2efad7-e900-4384-bdc0-b2ab5f62bb71",
-            "hobby": "Poetry"
-
-          },
-          {
-            "id": "96023eb7-8c93-4b1d-b581-b8fc4107351a",
-            "hobby": "Travelling"
-          },
-          {
-            "id": "7e5a6168-9cbe-4fe6-b9b9-43a47d8bb15a",
-            "hobby": "Beatboxing"
-          },
-          {
-            "id": "dd7f4ffd-9c16-4dbf-8968-1165b9e30db8",
-            "hobby": "Sketching"
-          }
+        {
+          "id": "dd2efad7-e900-4384-bdc0-b2ab5f62bb71",
+          "hobby": "Poetry"
+        },
+        {
+          "id": "96023eb7-8c93-4b1d-b581-b8fc4107351a",
+          "hobby": "Travelling"
+        },
+        {
+          "id": "7e5a6168-9cbe-4fe6-b9b9-43a47d8bb15a",
+          "hobby": "Beatboxing"
+        },
+        {
+          "id": "dd7f4ffd-9c16-4dbf-8968-1165b9e30db8",
+          "hobby": "Sketching"
+        }
       ]
     },
     "languages": {
       "enable": true,
-      "heading": "Languages",
+      "heading": "语言能力",
       "items": [
         {
           "id": "9d34cfcb-c9f0-4d25-ab27-cf81652dd1d0",
@@ -230,7 +229,7 @@
     },
     "references": {
       "enable": true,
-      "heading": "References",
+      "heading": "推荐人",
       "items": [
         {
           "id": "ba3662e6-29cb-4a03-9766-b3618d1621f3",
@@ -263,7 +262,7 @@
     },
     "extras": {
       "enable": true,
-      "heading": "Additional Information",
+      "heading": "其他信息",
       "items": [
         {
           "id": "3834a270-2c01-4105-b670-80863c955347",
@@ -298,7 +297,7 @@
     "colors": {
       "background": "#ffffff",
       "primary": "#212121",
-      "accent": "#f44336"
+      "accent": "#009688"
     }
   }
 }

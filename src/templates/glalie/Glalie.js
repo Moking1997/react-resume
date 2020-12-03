@@ -22,8 +22,11 @@ const Glalie = () => {
 
   const FullName = () => (
     <div className="text-4xl font-bold leading-none">
-      <h1>{data.profile.firstName}</h1>
-      <h1>{data.profile.lastName}</h1>
+      <h1>
+        {data.profile.firstName}
+        {data.profile.lastName}
+      </h1>
+      {/* <h1>{data.profile.lastName}</h1> */}
     </div>
   );
 
